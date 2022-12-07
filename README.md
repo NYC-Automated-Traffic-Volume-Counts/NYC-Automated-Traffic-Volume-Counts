@@ -1,9 +1,11 @@
-CPSC 531-02 Advance Database Management 
-Instructor- Tseng-Ching James Shen, PhD
+# CPSC 531-02 Advance Database Management 
+# Instructor- Tseng-Ching James Shen, PhD
 
 Team Members:
-Pratishtha Soni	pratishthasoni@csu.fullerton.edu
-Saurabh Jain	Saurabh_jain@csu.fullerton.edu
+
+# Pratishtha Soni	pratishthasoni@csu.fullerton.edu
+
+# Saurabh Jain	Saurabh_jain@csu.fullerton.edu
 
 
 # NYC-Automated-Traffic-Volume-Counts
