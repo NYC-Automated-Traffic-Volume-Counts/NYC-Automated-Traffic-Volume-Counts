@@ -36,5 +36,3 @@ fromSt - The 'From Street' where the count took place.
 toSt - The 'To Street' where the count took place.
 
 Direction - The text-based direction of traffic where the count took place.
-![image](https://user-images.githubusercontent.com/42618226/206092441-3ed08ea0-e5f7-4a22-b0ab-1cd39a9c2fc7.png)
-
