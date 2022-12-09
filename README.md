@@ -14,6 +14,7 @@ NYC Automated Traffic Count allows the user to view and access traffic data info
 
 NYC Automated Traffic Count allows the user to view and access traffic data information of different cities in NYC. The information is displayed in the form of excel. New York City transportation uses automated traffic recorders to collect traffic volume counts at bridge crossings and roadways. The data consists of car volume, averaged of every 15 mins for the duration of  20 Years This traffic data can be used to determine various types of analysis and design patterns in traffic over the year 2020.
 The information is collected from Kaggle in a form of 1 excel file and consists of 14 rows and 27190511 columns
+Data Link:https://www.kaggle.com/datasets/aadimator/nyc-automated-traffic-volume-counts
 Rows are:
 RequestID - unique ID that is generated for each count request.
 Boro - Lists which of the five administrative divisions of New York City the location is within, written as a word. Where Brooklyn data is 29% and Queens data is 26%
